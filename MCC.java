@@ -30,6 +30,10 @@ public class MCC implements Runnable {
 	public static final String[] NEWS = new String[] {"", ""};
 	
 	public static final byte PROTOCOL = 2;
+	// Every MineCC protocol version is named.
+	// 0 = Columbus
+	// 1 = Columbus II
+	// 2 = Lucy
 	public static final String PROTOCOL_NAME = "Lucy";
 	
 	public static final String URL_DONATION = "http://donate.minecc.co/category/213977";
