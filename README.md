@@ -1,4 +1,4 @@
-minecc-legacy-client
+MineCC Legacy: Client
 ====================
 
-MineCC Legacy Code: Client
+Code for the MineCC Client, so that everybody can see how it worked and examine the code. Unfortunately the Server code has been lost forever and will likely never be seen again, much like MineCC itself. ;_;
