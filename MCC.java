@@ -40,6 +40,8 @@ public class MCC implements Runnable {
 	public static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
 	public static final String ALPHABET_NUMERIC = ALPHABET + "0123456789";
 	
+	// TCP Port used by MineCC.
+	// 25565 (Minecraft) + 11111
 	public static final int PORT = 36676;
 	public static final File DIRECTORY = new File(Minecraft.getMinecraft().mcDataDir.getPath() + "/minecc");
 	public static final File KEYFILE = new File(DIRECTORY.getPath() + "/key.dat");
