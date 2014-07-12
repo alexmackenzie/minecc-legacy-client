@@ -5,6 +5,9 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
 
+/**
+ * Used to pull data from a website.
+ */
 public class MCCPull {
 
 	public static void pull(final String TARGET, final MCCPullHandler HANDLER){
