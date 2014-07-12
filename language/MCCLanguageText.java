@@ -52,7 +52,7 @@ public enum MCCLanguageText {
 	GUI_CHANGELOG("gui.changelog", "Changelog"),
 	GUI_CHANGELOG_DOWNLOAD("gui.changelog.download", "Downloading changelog..."),
 	GUI_STORE("gui.store", "Store"),
-	GUI_STORE_LINE0("gui.store.line.0", "MineCC is fundd by donations,"),
+	GUI_STORE_LINE0("gui.store.line.0", "MineCC is funded by donations,"),
 	GUI_STORE_LINE1("gui.store.line.1", "every dollar is greatly appreciated!"),
 	
 	FRIENDS("friends", "Friends"),
